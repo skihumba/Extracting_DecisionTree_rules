@@ -1,3 +1,3 @@
-### Extracting_DecisionTree_rules
+### Extracting Decision Tree rules
 
-extract if else rules from a decision tree model trained in scikit-learn
+Extract if else rules from a decision tree model trained in scikit-learn
